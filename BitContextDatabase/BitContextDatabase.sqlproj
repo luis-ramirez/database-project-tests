@@ -60,6 +60,7 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="Customers.sql" />
+    <Build Include="Tokens.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="BitContextDatabase.publish.xml" />
